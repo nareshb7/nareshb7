@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn3.vectorstock.com/i/1000x1000/91/17/website-development-banner-programming-technology-vector-25839117.jpg)
+
 <h1 align="center">Hi 👋, I'm Naresh Baleboina</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400">
