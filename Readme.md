@@ -36,3 +36,7 @@
 [![Naresh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nareshb7&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/nareshb7/github-readme-stats#gh-light-mode-only) -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshb7&" alt="nareshb7" /></p>
+
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
