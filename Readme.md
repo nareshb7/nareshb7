@@ -27,7 +27,8 @@
 <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mongodb.png" alt="react" width="40" height="40"/> </a>
 <!--  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="" alt="react" width="40" height="40"/> </a> -->
 </p>
- 
+
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshb7&show_icons=true&locale=en&layout=compact" alt="nareshb7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshb7&show_icons=true&locale=en" alt="nareshb7" /></p>
