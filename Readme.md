@@ -31,12 +31,17 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshb7&show_icons=true&locale=en&layout=compact" alt="nareshb7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshb7&show_icons=true&locale=en" alt="nareshb7" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshb7&show_icons=true&locale=en" alt="nareshb7" /></p> -->
 <!-- 
 [![Naresh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nareshb7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/nareshb7/github-readme-stats#gh-dark-mode-only)
-[![Naresh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nareshb7&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/nareshb7/github-readme-stats#gh-light-mode-only) -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshb7&" alt="nareshb7" /></p>
+[![Naresh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nareuuuuuuu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/nareshb7/github-readme-stats#gh-light-mode-only) -->
+<p align="left">
+  <a href="https://nareshb7.github.io">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nareshb7&show_icons=true&theme=white&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshb7&theme=white&hide_border=true" />
+  </a>
+</p>
+<br>
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
